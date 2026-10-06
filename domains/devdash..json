@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "xXZzouenZXx"
+  },
+  "records": {
+    "TXT": [
+      "v=spf1 include:amazonses.com ~all"
+    ],
+    "CNAME": "resend._domainkey.devdash.is-a.dev"
+  }
+}
